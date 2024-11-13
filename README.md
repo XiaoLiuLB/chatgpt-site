@@ -1,4 +1,4 @@
-# 国内 ChatGPT国内中文版镜像网站整理（2024/11/12）
+# 国内 ChatGPT国内中文版镜像网站整理（2024/11/13）
 
 ## 介绍
 在本仓库中，我们汇总整理了多个国内 ChatGPT-4 中文版镜像网站，帮助用户在正常网络下也能访问 GPT。
@@ -37,6 +37,7 @@
 - [http://chat.iisai.cn](http://chat.iisai.cn)
 - [https://ssgpt.chat/](https://ssgpt.chat/) 
 - [http://mychatos.top/#/chat](http://mychatos.top/#/chat)
+- [https://monica.im/](https://monica.im/)
    
 ## 国内自研大模型汇总
 
