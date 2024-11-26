@@ -1,21 +1,11 @@
-# 国内 ChatGPT镜像网站 国内中文版整理（2024/11/26）
+# 国内 ChatGPT 镜像网站国内中文版整理（2024/11/27）
 
-最新更新ChatGPT镜像网站：[https://www.yixiaai.com/](https://www.yixiaai.com/)
+最新更新ChatGPT 镜像网站：[https://www.yixiaai.com/](https://www.yixiaai.com/)
 
 ## 介绍
 在本仓库中，我们汇总整理了多个国内 **ChatGPT-4 中文版镜像网站**，帮助用户在正常网络下也能访问 **ChatGPT镜像网站**。
 
----
-
-## 目录
-1. [什么是ChatGPT镜像网站](#什么是ChatGPT镜像网站)
-2. [ChatGPT 镜像网站的用途](#ChatGPT-镜像网站的用途)
-3. [国内 ChatGPT 中文版镜像资源](#国内-ChatGPT-中文版镜像资源)
-4. [国内自研大模型汇总](#国内自研大模型汇总)
-5. [注意事项](#注意事项)
----
-
-## 什么是ChatGPT镜像网站
+## 什么是 ChatGPT 镜像网站
 **镜像网站**（Mirror Site）是指通过复制原始网站内容和结构，创建的备用网站。其主要目的是在原始网站无法访问时，提供相同或类似的服务和信息。
 
 ## ChatGPT 镜像网站的用途
