@@ -1,6 +1,6 @@
-# 国内 ChatGPT 镜像网站国内中文版整理（2024/11/27）
+# 国内 ChatGPT 镜像网站国内中文版整理（2024/11/28）
 
-2024/11/27最新更新 ChatGPT 镜像网站：[https://www.yixiaai.com/](https://www.yixiaai.com/)
+2024/11/28最新更新 ChatGPT 镜像网站：[https://www.yixiaai.com/](https://www.yixiaai.com/)
 
 ## 介绍
 在本仓库中，我们汇总整理了多个国内 **ChatGPT-4 中文版镜像网站**，帮助用户在正常网络下也能访问 **ChatGPT 镜像网站**。
