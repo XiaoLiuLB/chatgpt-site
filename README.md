@@ -1,4 +1,4 @@
-# 国内 ChatGPT 镜像网站国内中文版整理（2024/12/21）
+# 国内 ChatGPT 镜像网站国内中文版整理（2024/12/23）
 
 最新更新 ChatGPT 镜像网站：[https://www.yixiaai.com/](https://www.yixiaai.com/)
 
